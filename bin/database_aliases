@@ -1,0 +1,1 @@
+alias vgdb='mysql -hlocalhost -uvgallery -p$VGDB_PASS vgallery'
