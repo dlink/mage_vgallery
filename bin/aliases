@@ -1,0 +1,7 @@
+v=$HOME/vgallery     ; alias v='cd $v'
+va=$v/app            ; alias va='cd $va'
+vad=$va/design       ; alias vad='cd $vad'
+vadf=$vad/frontend   ; alias vadf='cd $vadf'
+vb=$v/bin            ; alias vb='cd $vb'
+vs=$v/skin           ; alias vs='cd $vs'
+vsf=$vs/frontend     ; alias vsf='cd $vsf'
